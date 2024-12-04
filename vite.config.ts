@@ -20,7 +20,6 @@ export default defineConfig({
     port: 80,
     open: false
   },
-  base: '/note-pages/',
   build: {
     outDir: 'docs',
     assetsDir: 'assets'
